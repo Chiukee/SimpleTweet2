@@ -41,7 +41,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some errors that kept freezing my computer. Sometimes the app wouldn't run after compiling unless I restarted my computer. 
 
 ## Open-source libraries used
 
